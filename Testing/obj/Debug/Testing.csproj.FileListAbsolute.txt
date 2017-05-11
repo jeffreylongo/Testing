@@ -1,0 +1,6 @@
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\jefflongo\tiy\week-9\day-3\Testing\Testing\obj\Debug\Testing.pdb
